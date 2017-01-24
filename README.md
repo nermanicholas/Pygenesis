@@ -1,6 +1,6 @@
 # Pygenesis
 
-2D Terrain Generation (Still in progress...).
+2D Terrain Generation (work in progress...).
 
 TODO:
 
